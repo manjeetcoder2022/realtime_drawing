@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.heading{
+    color: white;
+    background-color:rgb(40, 193, 253);
+    font-size: 18px;
+    padding: 8px;
+    box-shadow: 8px 8px 8px grey;
+    font-weight: bold;
+    margin-top: 0 ;
+    position: fixed;
+    width: 100%;
+}
+.note{
+    color: black;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+footer{
+    background-color: grey;
+ 
+    padding: 4px;
+    bottom: 0 !important;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+position:fixed;
+width: 100%;
+text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px  grey;
+    background-color: gray;
+
+}
+@keyframes color_Change {
+    
+
+}
+video{
+    margin-top:-15px;
+border-radius: 20px !important;
+
+}
